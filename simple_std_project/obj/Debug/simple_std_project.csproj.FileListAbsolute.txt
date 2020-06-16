@@ -1,0 +1,23 @@
+c:\users\alhayani\documents\visual studio 2015\Projects\simple_std_project\simple_std_project\bin\Debug\simple_std_project.exe.config
+D:\MyProjects\simple_std_project\simple_std_project\bin\Debug\simple_std_project.exe.config
+D:\MyProjects\simple_std_project\simple_std_project\bin\Debug\simple_std_project.exe
+D:\MyProjects\simple_std_project\simple_std_project\bin\Debug\simple_std_project.pdb
+D:\MyProjects\simple_std_project\simple_std_project\obj\Debug\simple_std_project.csprojResolveAssemblyReference.cache
+D:\MyProjects\simple_std_project\simple_std_project\obj\Debug\simple_std_project.frm_main.resources
+D:\MyProjects\simple_std_project\simple_std_project\obj\Debug\simple_std_project.Properties.Resources.resources
+D:\MyProjects\simple_std_project\simple_std_project\obj\Debug\simple_std_project.csproj.GenerateResource.Cache
+D:\MyProjects\simple_std_project\simple_std_project\obj\Debug\simple_std_project.exe
+D:\MyProjects\simple_std_project\simple_std_project\obj\Debug\simple_std_project.pdb
+D:\MyProjects\simple_std_project\simple_std_project\bin\Debug\db_std.mdf
+D:\MyProjects\simple_std_project\simple_std_project\bin\Debug\db_std_log.ldf
+E:\MyProjects\simple_std_project\simple_std_project\bin\Debug\simple_std_project.exe.config
+E:\MyProjects\simple_std_project\simple_std_project\obj\Debug\simple_std_project.exe
+E:\MyProjects\simple_std_project\simple_std_project\obj\Debug\simple_std_project.pdb
+E:\MyProjects\simple_std_project\simple_std_project\bin\Debug\db_std.mdf
+E:\MyProjects\simple_std_project\simple_std_project\bin\Debug\db_std_log.ldf
+E:\MyProjects\simple_std_project\simple_std_project\bin\Debug\simple_std_project.exe
+E:\MyProjects\simple_std_project\simple_std_project\bin\Debug\simple_std_project.pdb
+E:\MyProjects\simple_std_project\simple_std_project\obj\Debug\simple_std_project.csprojResolveAssemblyReference.cache
+E:\MyProjects\simple_std_project\simple_std_project\obj\Debug\simple_std_project.frm_main.resources
+E:\MyProjects\simple_std_project\simple_std_project\obj\Debug\simple_std_project.Properties.Resources.resources
+E:\MyProjects\simple_std_project\simple_std_project\obj\Debug\simple_std_project.csproj.GenerateResource.Cache
